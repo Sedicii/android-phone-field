@@ -13,7 +13,7 @@ ext {
   siteUrl = 'https://github.com/lamudi-gmbh/android-phone-field'
   gitUrl = 'https://github.com/lamudi-gmbh/android-phone-field.git'
 
-  libraryVersion = '0.1.3'
+  libraryVersion = '0.1.4-sedicii'
 
   developerId = 'ialmetwally'
   developerName = 'Ismail Almetwally'
